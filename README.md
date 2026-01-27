@@ -30,11 +30,12 @@
 
 
 <h2>Preprints</h2>
+  <ol>
   <li>
     M. Heins <i>Entire Functions on Lie Groups</i> 
     <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
   </li>
-
+  </ol>
 
 <h2>Thesis</h2>
 M. Heins, <i>A Holomorphic perspective of Strict Deformation

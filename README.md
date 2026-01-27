@@ -8,9 +8,12 @@ Italy
 </pre>
 
 <h2>Mail</h2>
-michael[dot]heins[dot]mathematics[at]gmail.com
+<pre>
+  michael[dot]heins[dot]mathematics[at]gmail.com
 or
-mheins[at]unisa.it
+  mheins[at]unisa[dot]it
+</pre>
+
 
 
 <h2>Journal Articles</h2> 

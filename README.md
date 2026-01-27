@@ -1,4 +1,4 @@
-<h2>Publications</h2> 
+<h2>Journal Articles</h2> 
 <ol>
   <li> 
     M. Heins, O. Roth and S. Waldmann, <i>Convergent star products on
@@ -28,6 +28,15 @@
   </li>
 </ol>
 
+
 <h2>Preprints</h2>
+  <li>
+    M. Heins <i>Entire Functions on Lie Groups</i> 
+    <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
+  </li>
+
 
 <h2>Thesis</h2>
+M. Heins, <i>A Holomorphic perspective of Strict Deformation
+Quantization</i>, 2024, PhD thesis
+<a href="https://arxiv.org/abs/2504.12862">arXiv:2504.12862</a>

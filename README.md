@@ -58,3 +58,6 @@ or
 M. Heins, <em>A Holomorphic perspective of Strict Deformation
 Quantization</em>, 2024, PhD thesis
 <a href="https://arxiv.org/abs/2504.12862">arXiv:2504.12862</a>
+
+<h2>Lecture Notes</h2>
+<a href="Locally Convex Analysis in Differential Geometry.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>

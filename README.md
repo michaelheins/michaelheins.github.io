@@ -1,11 +1,11 @@
 <h1>Michael Heins</h1>
 
-# Publications
+<h2>Publications</h2>
 <ol>
   <li>Coffee</li>
   <li>Tea</li>
 </ol>
 
-# Preprints
+<h2>Preprints</h2>
 
-# Thesis
+<h2>Thesis</h2>

@@ -1,6 +1,4 @@
-<h1>Michael Heins</h1>
-
-<h2>Publications</h2>
+<h2>Publications</h2> 
 <ol>
   <li>M. Heins, O. Roth and S. Waldmann, <i>Convergent star products on
 cotangent bundles of Lie groups</i>, Math. Ann. <b>386</b>, 2023, 151–206, see

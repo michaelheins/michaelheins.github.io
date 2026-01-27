@@ -24,7 +24,7 @@
     M. Heins, A. Moucha and O. Roth, <i>Function Theory off the complexified
     unit circle: Fréchet space structure and automorphisms</i>, Annales Fennici Mathematici <b>49</b>.1,
     2024, see 
-    <a href="doi.org/10.4153/S0008414X2400021X">doi:10.4153/S0008414X2400021X</a>
+    <a href="https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/spectral-theory-of-the-invariant-laplacian-on-the-disk-and-the-sphere-a-complex-analysis-approach/CE34EE3613AB23A78DF0E00D78DF8A98">doi:10.4153/S0008414X2400021X</a>
   </li>
 </ol>
 

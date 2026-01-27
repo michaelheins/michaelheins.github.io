@@ -9,7 +9,7 @@ Italy
 
 <h2>Mail</h2>
 <pre>
-  michael[dot]heins[dot]mathematics[at]gmail.com
+  michael[dot]heins[dot]mathematics[at]gmail[dot]com
 or
   mheins[at]unisa[dot]it
 </pre>
@@ -19,8 +19,8 @@ or
 <h2>Journal Articles</h2> 
 <ol>
   <li> 
-    M. Heins, O. Roth and S. Waldmann, <i>Convergent star products on
-    cotangent bundles of Lie groups</i>, Math. Ann. <b>386</b>, 2023, 151–206, see
+    M. Heins, O. Roth and S. Waldmann, <em>Convergent star products on
+    cotangent bundles of Lie groups</em>, Math. Ann. <b>386</b>, 2023, 151–206, see
     <a href="https://arxiv.org/abs/2107.14624">arXiv:2107.14624</a>. 
   </li>
   

@@ -7,6 +7,11 @@ via Giovanni Paolo II, 123
 Italy
 </pre>
 
+<h2>Mail</h2>
+michael[dot]heins[dot]mathematics[at]gmail.com
+or
+mheins[at]unisa.it
+
 
 <h2>Journal Articles</h2> 
 <ol>

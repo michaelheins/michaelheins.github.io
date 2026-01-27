@@ -49,7 +49,7 @@ or
 <h2>Preprints</h2>
   <ol>
   <li>
-    M. Heins <em>Entire Functions on Lie Groups</em> 
+    M. Heins, <em>Entire Functions on Lie Groups</em> 
     <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
   </li>
   </ol>

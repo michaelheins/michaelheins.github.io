@@ -2,7 +2,7 @@
 <pre>
 Dipartimento di Matematica
 Università degli Studi di Salerno
-via Giovanni Paolo II, 123
+via Giovanni Paolo II, 132
 84084 Fisciano (SA)
 Italy
 </pre>

@@ -49,6 +49,11 @@ or
 <h2>Preprints</h2>
   <ol>
   <li>
+    C. Esposito, M. Heins, S. Waldmann, <em>Convergent Twist Deformations</em> 
+    <a href="https://arxiv.org/abs/2602.16593">arxiv:2602.16593</a>
+  </li>
+    
+  <li>
     M. Heins, <em>Entire Functions on Lie Groups</em> 
     <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
   </li>

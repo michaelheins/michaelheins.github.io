@@ -33,7 +33,7 @@ or
   <li> 
     M. Heins, A. Moucha, O. Roth and T. Sugawa, <em>Peschl-Minda
     derivatives and convergent Wick star products on the disk, the sphere and beyond</em>, 
-    JAMA <strong>157</strong>, 2025, 361–400, see
+    J. d'Analyse Math. <strong>157</strong>, 2025, 361–400, see
     <a href="https://arxiv.org/abs/2308.01101">arXiv:2308.01101</a>
   </li>
 

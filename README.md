@@ -7,6 +7,8 @@ via Giovanni Paolo II, 132
 Italy
 </pre>
 
+<img src=".M_cropped.jpg" style="display: block; margin: auto;" />
+
 <h2>Mail</h2>
 <pre>
   michael[dot]heins[dot]mathematics[at]gmail[dot]com

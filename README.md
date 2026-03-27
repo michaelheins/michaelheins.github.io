@@ -7,7 +7,7 @@ via Giovanni Paolo II, 132
 Italy
 </pre>
 
-<img src="M_Cropped.jpg" style="display: block; margin: auto;" />
+![Schematic Picture of Michael](M_Cropped.jpg)
 
 <h2>Mail</h2>
 <pre>

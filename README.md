@@ -7,7 +7,6 @@ via Giovanni Paolo II, 132
 Italy
 </pre>
 
-![Schematic Picture of Michael](M_Cropped.jpg)
 
 <h2>Mail</h2>
 <pre>
@@ -16,6 +15,8 @@ or
   mheins[at]unisa[dot]it
 </pre>
 
+<h2>Schematic Picture</h2>
+![Schematic Picture of Michael](M_Cropped.jpg)
 
 
 <h2>Journal Articles</h2> 

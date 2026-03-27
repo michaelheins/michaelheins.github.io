@@ -16,6 +16,7 @@ or
 </pre>
 
 <h2>Schematic Picture</h2>
+
 ![Schematic Picture of Michael](M_Cropped.jpg)
 
 

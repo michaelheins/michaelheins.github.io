@@ -1,18 +1,16 @@
 <h2>Coordinates</h2>
 <pre>
-Dipartimento di Matematica
-Università degli Studi di Salerno
-via Giovanni Paolo II, 132
-84084 Fisciano (SA)
-Italy
+Institute of Applied Mathematics
+Delft University of Technology
+Mekelweg 4
+2628 CD Delft
+Netherlands
 </pre>
 
 
 <h2>Mail</h2>
 <pre>
   michael[dot]heins[dot]mathematics[at]gmail[dot]com
-or
-  mheins[at]unisa[dot]it
 </pre>
 
 <h2>Schematic Picture</h2>

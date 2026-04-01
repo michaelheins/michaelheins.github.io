@@ -11,6 +11,8 @@ Netherlands
 <h2>Mail</h2>
 <pre>
   michael[dot]heins[dot]mathematics[at]gmail[dot]com
+  or
+  mheins[at]tudelft[dot]nl
 </pre>
 
 <h2>Schematic Picture</h2>

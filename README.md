@@ -12,7 +12,7 @@ Netherlands
 <pre>
   michael[dot]heins[dot]mathematics[at]gmail[dot]com
   or
-  M.T.Heins[at]tudelft[dot]nl
+  mheins[at]tudelft[dot]nl
 </pre>
 
 <h2>Schematic Picture</h2>

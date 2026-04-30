@@ -19,6 +19,18 @@ Netherlands
 
 ![Schematic Picture of Michael](M_Cropped.jpg)
 
+<h2>Preprints</h2>
+  <ol>
+  <li>
+    C. Esposito, M. Heins, S. Waldmann, <em>Convergent Twist Deformations</em> 
+    <a href="https://arxiv.org/abs/2602.16593">arxiv:2602.16593</a>
+  </li>
+    
+  <li>
+    M. Heins, <em>Entire Functions on Lie Groups</em> 
+    <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
+  </li>
+  </ol>
 
 <h2>Journal Articles</h2> 
 <ol>
@@ -49,20 +61,6 @@ Netherlands
   </li>
 </ol>
 
-
-<h2>Preprints</h2>
-  <ol>
-  <li>
-    C. Esposito, M. Heins, S. Waldmann, <em>Convergent Twist Deformations</em> 
-    <a href="https://arxiv.org/abs/2602.16593">arxiv:2602.16593</a>
-  </li>
-    
-  <li>
-    M. Heins, <em>Entire Functions on Lie Groups</em> 
-    <a href="https://arxiv.org/abs/2512.07479">arxiv:2512.07479</a>
-  </li>
-  </ol>
-
 <h2>Thesis</h2>
 M. Heins, <em>A Holomorphic perspective of Strict Deformation
 Quantization</em>, 2024, PhD thesis, Julius-Maximilians-Universität Würzburg,
@@ -70,3 +68,6 @@ see <a href="https://arxiv.org/abs/2504.12862">arXiv:2504.12862</a>
 
 <h2>Lecture Notes</h2>
 <a href="Locally Convex Analysis in Differential Geometry.pdf" class="image fit">Locally Convex Analysis in Differential Geometry</a>
+
+<h2>Slides</h2>
+<a href="ConvergentTwistDeformationsSlides.pdf" class="image fit">Convergent Twist Deformations</a>

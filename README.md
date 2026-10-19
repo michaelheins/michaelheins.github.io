@@ -1,6 +1,12 @@
 <h2>About</h2>
 <pre>
-My favourite question is the toddler's 'But why?'. The universe has yet to provide a satisfactory answer. Letting my curiosity guide me, I have found myself on a fantastical journey through the vast and fractal landscape of mathematics. And that journey is what 'But why?' is all about, not some mystical destination. Understanding, not mere collection of facts.
+My favourite question is the toddler's 'But why?'. 
+The universe has yet to provide a satisfactory answer. 
+Letting my curiosity guide me, I have found myself on 
+a fantastical journey through the vast and fractal 
+landscape of mathematics. And that journey is what 
+'But why?' is all about, not some mystical destination. 
+Understanding, not mere collection of facts.
 </pre>
 
 <pre>

@@ -22,6 +22,12 @@ Netherlands
 <h2>Preprints</h2>
   <ol>
   <li>
+    M. Heins, <em>Boundedness in Strict Deformation Quantization</em> 
+    <a href="https://arxiv.org/abs/2609.16250">arxiv:2609.16250</a>
+  </li>
+  </ol>
+    
+  <li>
     C. Esposito, M. Heins, S. Waldmann, <em>Convergent Twist Deformations</em> 
     <a href="https://arxiv.org/abs/2602.16593">arxiv:2602.16593</a>
   </li>

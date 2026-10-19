@@ -2,9 +2,9 @@
 <pre>
 My favourite question is the toddler's 'But why?'. The universe has yet to provide a satisfactory answer. Letting my curiosity guide me, I have found myself on a fantastical journey through the vast and fractal landscape of mathematics. And that journey is what 'But why?' is all about, not some mystical destination. Understanding, not mere collection of facts.
 
-\n My research branches out from Strict Deformation Quantization, which on a technical level boils down to the convergence for vector-valued power series. As such, my toolbox contains much of locally convex functional analysis, a great deal of complex analysis and scattered fragments of algebra providing guidance and structure. Moreover, Lie groups and their representation theory have provided a fruitful setting with numerous worthwhile 'But why?'s of their own. When nobody is looking, I replace finite-dimensional objects with their infinite-dimensional counterparts.
+My research branches out from Strict Deformation Quantization, which on a technical level boils down to the convergence for vector-valued power series. As such, my toolbox contains much of locally convex functional analysis, a great deal of complex analysis and scattered fragments of algebra providing guidance and structure. Moreover, Lie groups and their representation theory have provided a fruitful setting with numerous worthwhile 'But why?'s of their own. When nobody is looking, I replace finite-dimensional objects with their infinite-dimensional counterparts.
 
-\n In my non-mathematical time, I consume unwise amounts of fantasy and science fiction, and challenge myself with board as well as video games.
+In my non-mathematical time, I consume unwise amounts of fantasy and science fiction, and challenge myself with board as well as video games.
 </pre>
 
 <h2>Coordinates</h2>

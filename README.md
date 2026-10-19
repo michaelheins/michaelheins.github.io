@@ -10,12 +10,23 @@ Understanding, not mere collection of facts.
 </pre>
 
 <pre>
-My research branches out from Strict Deformation Quantization, which on a technical level boils down to the convergence for vector-valued power series. As such, my toolbox contains much of locally convex functional analysis, a great deal of complex analysis and scattered fragments of algebra providing guidance and structure. Moreover, Lie groups and their representation theory have provided a fruitful setting with numerous worthwhile 'But why?'s of their own. When nobody is looking, I replace finite-dimensional objects with their infinite-dimensional counterparts.
+My research branches out from Strict Deformation Quantization, 
+which on a technical level boils down to the convergence for 
+vector-valued power series. As such, my toolbox contains much 
+of locally convex functional analysis, a great deal of complex 
+analysis and scattered fragments of algebra providing guidance 
+and structure. Moreover, Lie groups and their representation 
+theory have provided a fruitful setting with numerous worthwhile 
+'But why?'s of their own. When nobody is looking, I replace 
+finite-dimensional objects with their infinite-dimensional counterparts.
 </pre>
 
 <pre>  
-In my non-mathematical time, I consume unwise amounts of fantasy and science fiction, and challenge myself with board as well as video games.
+In my non-mathematical time, I consume unwise 
+amounts of fantasy and science fiction, and 
+challenge myself with board as well as video games.
 </pre>
+
 
 <h2>Coordinates</h2>
 <pre>

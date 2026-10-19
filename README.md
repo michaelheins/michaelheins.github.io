@@ -21,12 +21,10 @@ theory have provided a fruitful setting with numerous worthwhile
 finite-dimensional objects with their infinite-dimensional counterparts.
 </pre>
 
-<pre> 
-In my non-mathematical time, I consume unwise 
+<pre> In my non-mathematical time, I consume unwise 
 amounts of fantasy and science fiction, and 
 challenge myself with board as well as video games.
 </pre>
-
 
 <h2>Coordinates</h2>
 <pre>
